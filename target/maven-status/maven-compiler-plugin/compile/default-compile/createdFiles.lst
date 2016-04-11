@@ -1,0 +1,10 @@
+com\rigor\efs\dao\AbstractDao.class
+com\rigor\efs\controller\DepartmentController.class
+com\rigor\efs\configuaration\AppInitializer.class
+com\rigor\efs\dao\DepartmentDAOImpl.class
+com\rigor\efs\service\DepartmentService.class
+com\rigor\efs\service\DeparmentServiceImpl.class
+com\rigor\efs\configuaration\HibernateConfiguration.class
+com\rigor\efs\model\Department.class
+com\rigor\efs\dao\DepartmentDAO.class
+com\rigor\efs\configuaration\AppConfig.class
